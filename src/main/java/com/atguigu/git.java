@@ -6,5 +6,6 @@ public class git {
         System.out.println("你好帅哦");
         System.out.println("sdsdsd");
         System.out.println("hot-fix");
+        System.out.println("mastertest");
     }
 }
